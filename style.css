@@ -1,0 +1,75 @@
+.header{
+    background-color: #FFFFF4;
+}
+.penguin{
+    background-color: #FFFFF4;
+}
+.h-one{
+    font-size: 70px;
+    color: #363958;
+    font-weight: bold;
+}
+.h-two{
+    font-size: 70px;
+    color: #76C27E;
+    font-weight: bold;
+}
+.col h3{
+    color: #76C27E;
+}
+.penguin-card{
+    border: 0 !important;
+}
+.card-footer{
+    background-color: white;
+    border: 0 !important;
+}
+.bagpack, .travel{
+    color: #363958;
+    font-weight: bold;
+}
+.card-title{
+    color: #363958;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+.contact .contact-form{
+    padding: 50px 50px;
+    background-color: #FFFFF4;
+    max-width: 500px;
+    border: 5px solid rgb(241, 235, 235);
+}
+.contact .title-white .title-text-two{
+    font-size: 2em;
+    font-weight: 300;
+}
+.contact .title-white .span-two{
+    color: #363958;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+.contact .contact-form h3{
+    color: black;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 20px;
+}
+.contact .contact-form .input-box{
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.contact .contact-form .input-box input{
+    width: 100%;
+    border: 1px solid #555;
+    padding: 10px;
+    color: #111;
+    font-size: 15px;
+}
+.contact .contact-form .input-box input[type="submit"]
+{
+    font-size: 1em;
+    color: #fff;
+    background-color:  #363958;
+    text-decoration: none;
+}
